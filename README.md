@@ -21,11 +21,11 @@ Die Identifizierung der Prozesse mit der größten Auswirkung erfolgt durch Anal
 
 # Projektfortschritt und Erfahrungen
 
-Während der Entwicklung des Skripts wurden verschiedene technische Herausforderungen bewältigt, darunter das Erlernen der PowerShell-Syntax, das Arbeiten mit WMI-Abfragen und das Einbinden eines externen Editors. Durch die Nutzung von Online-Ressourcen und die Unterstützung von ChatGPT konnte ich diese Herausforderungen erfolgreich meistern und mein Verständnis für PowerShell-Programmierung erweitern.
+Während der Skriptentwicklung überwand ich technische Herausforderungen wie PowerShell-Syntax, WMI-Abfragen und externen Editor. Dank Online-Ressourcen und ChatGPT verbesserte ich meine PowerShell-Programmierkenntnisse.
 
-Das Projekt hat mir wertvolle Erfahrungen im Bereich PowerShell-Programmierung, Systemüberwachung und -optimierung ermöglicht. Insbesondere das Arbeiten mit Systemmetriken und das Programmieren von Automatisierungsskripten haben meine Fähigkeiten erweitert. Das Skript hat mir gezeigt, wie man systematische Engpässe identifiziert, Auslastungen überwacht und Leistungsprobleme frühzeitig erkennt.
+Das Projekt erweiterte meine Fähigkeiten in PowerShell, Systemüberwachung und -optimierung. Es half mir, Engpässe zu identifizieren, Auslastungen zu überwachen und Leistungsprobleme frühzeitig zu erkennen.
 
-Zusätzlich zur technischen Entwicklung habe ich gelernt, wie wichtig es ist, Ressourcenengpässe zu erkennen und mögliche Hardware-Upgrades in Betracht zu ziehen. Das Skript hat mir verdeutlicht, dass mein aktueller Laptop aufgrund seines Alters oft hohe Festplatten- und Speicherlasten aufweist. Diese Erkenntnis hat mein Interesse an Systemoptimierung und effizienter Ressourcennutzung weiter verstärkt.
+Zusätzlich erkannte ich die Bedeutung von Ressourcenengpässen und Hardware-Upgrades. Mein aktueller Laptop zeigt aufgrund seines Alters oft hohe Festplatten- und Speicherlasten. Diese Erkenntnis verstärkte mein Interesse an Systemoptimierung und effizienter Ressourcennutzung.
 
 # Beispiel
 ![image](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/assets/110893288/5372f0eb-99d4-4fcb-9eff-80895007d81c)
