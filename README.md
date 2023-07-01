@@ -12,11 +12,11 @@ Unterstützung für die Ausführung in PowerShell-Umgebung oder integrierten Ent
 
 # Technische Details
 
-Das Skript verwendet Windows Management Instrumentation (WMI), um Systemressourcen abzufragen und die Auslastung in Prozent zu berechnen. Es ruft die CPU-Auslastung, die verfügbare Festplattenkapazität und den freien physischen Speicher ab und ermittelt die prozentuale Auslastung basierend auf den verfügbaren Ressourcen.
+Das Skript nutzt WMI, um Systemressourcen abzufragen und die prozentuale Auslastung zu berechnen. Es erfasst CPU-Auslastung, Festplattenkapazität und physischen Speicher und berechnet basierend auf den verfügbaren Ressourcen die prozentuale Auslastung.
 
-Das Skript überprüft die Metriken auf das Überschreiten vordefinierter Schwellenwerte (standardmäßig auf 80% festgelegt). Wenn eine Metrik den Schwellenwert überschreitet, wird eine Warnung generiert und in den Bericht aufgenommen.
+Das Skript überwacht die Metriken anhand vordefinierter Schwellenwerte (standardmäßig bei 80%). Überschreitet eine Metrik den Schwellenwert, generiert das Skript eine Warnung und fügt sie dem Bericht hinzu.
 
-Die Identifizierung der Prozesse mit der größten Auswirkung erfolgt durch Analyse der Festplattennutzung und des Speicherverbrauchs. Diese Informationen werden im Bericht bereitgestellt, um Benutzern bei der Ermittlung möglicher Ursachen für hohe Auslastungen zu unterstützen.
+Um die Prozesse mit der größten Auswirkung zu identifizieren, analysiert das Skript die Festplattennutzung und den Speicherverbrauch. Diese Informationen werden im Bericht angezeigt, um Benutzern bei der Ursachenermittlung für hohe Auslastungen zu helfen.
 
 
 # Projektfortschritt und Erfahrungen
