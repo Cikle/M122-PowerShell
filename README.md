@@ -3,12 +3,12 @@
 Das System-Metriken-Überwachungsskript ist ein PowerShell-Skript, das entwickelt wurde, um wichtige Systemmetriken wie CPU-Auslastung, Festplattenauslastung und Speicherauslastung auf einem Windows-basierten Computer zu überwachen. Das Skript bietet eine Echtzeit-Überwachung und generiert einen detaillierten Bericht, der bei Bedarf automatisch angezeigt wird.
 Funktionalitäten
 
-    Echtzeitüberwachung der CPU-Auslastung, Festplattenauslastung und Speicherauslastung
-    Generierung eines detaillierten Berichts mit aktuellen Metrikwerten und Warnungen bei Überschreitung der Schwellenwerte
-    Identifizierung der fünf Prozesse mit der größten Auswirkung auf die Festplattennutzung und den Speicherverbrauch
-    Konfigurierbare Schwellenwerte für die Warnungen (Standard: 80%)
-    Unterstützung für die Ausführung in PowerShell-Umgebung oder integrierten Entwicklungsumgebungen wie Visual Studio
-    Öffnen des Berichts in einem separaten Editor für bequeme Anzeige und Analyse
+Echtzeitüberwachung der CPU-Auslastung, Festplattenauslastung und Speicherauslastung
+Generierung eines detaillierten Berichts mit aktuellen Metrikwerten und Warnungen bei Überschreitung der Schwellenwerte
+Identifizierung der fünf Prozesse mit der größten Auswirkung auf die Festplattennutzung und den Speicherverbrauch
+Konfigurierbare Schwellenwerte für die Warnungen (Standard: 80%)
+Unterstützung für die Ausführung in PowerShell-Umgebung oder integrierten Entwicklungsumgebungen wie Visual Studio
+Öffnen des Berichts in einem separaten Editor für bequeme Anzeige und Analyse
 
 # Technische Details
 
@@ -29,7 +29,7 @@ Zusätzlich zur technischen Entwicklung habe ich gelernt, wie wichtig es ist, Re
 
 # Anleitung für das Skript
 
-Klone das Repository: git clone https://github.com/Cikle/system-metrics-monitoring-script.git
+Klone das Repository: git clone [https://github.com/Cikle/System-metrics-monitoring-script.git](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/blob/main/System-Monitoring-Script.ps1)
 Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
 Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
 Der Bericht wird automatisch in einem separaten Editor geöffnet.
