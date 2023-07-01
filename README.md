@@ -15,9 +15,9 @@ Das System-Metriken-Überwachungsskript ist ein PowerShell-Skript zur Echtzeitü
 
 Das Skript nutzt WMI, um Systemressourcen abzufragen und die prozentuale Auslastung zu berechnen. Es erfasst CPU-Auslastung, Festplattenkapazität und physischen Speicher und berechnet basierend auf den verfügbaren Ressourcen die prozentuale Auslastung.
 
-Das Skript überwacht die Metriken anhand vordefinierter Schwellenwerte (standardmäßig bei 80%). Überschreitet eine Metrik den Schwellenwert, generiert das Skript eine Warnung und fügt sie dem Bericht hinzu.
+Das Skript überwacht die Metriken anhand vordefinierter Schwellenwerte (standardmässig bei 80%). Überschreitet eine Metrik den Schwellenwert, generiert das Skript eine Warnung und fügt sie dem Bericht hinzu.
 
-Um die Prozesse mit der größten Auswirkung zu identifizieren, analysiert das Skript die Festplattennutzung und den Speicherverbrauch. Diese Informationen werden im Bericht angezeigt, um Benutzern bei der Ursachenermittlung für hohe Auslastungen zu helfen.
+Um die Prozesse mit der grössten Auswirkung zu identifizieren, analysiert das Skript die Festplattennutzung und den Speicherverbrauch. Diese Informationen werden im Bericht angezeigt, um Benutzern bei der Ursachenermittlung für hohe Auslastungen zu helfen.
 
 
 # Projektfortschritt und Erfahrungen
