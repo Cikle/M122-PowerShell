@@ -63,10 +63,7 @@ Zusätzlich zur technischen Entwicklung habe ich gelernt, wie wichtig es ist, Re
         324     68 302812 261560   9,98 14348  4 firefox    
 
 
-
-
-
-
+![image](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/assets/110893288/5372f0eb-99d4-4fcb-9eff-80895007d81c)
 
 
 
