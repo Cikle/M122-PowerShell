@@ -10,26 +10,26 @@ Funktionalitäten
     Unterstützung für die Ausführung in PowerShell-Umgebung oder integrierten Entwicklungsumgebungen wie Visual Studio
     Öffnen des Berichts in einem separaten Editor für bequeme Anzeige und Analyse
 
-Technische Details
+# Technische Details
 
 Das Skript verwendet Windows Management Instrumentation (WMI), um Systemressourcen abzufragen und die Auslastung in Prozent zu berechnen. Es ruft die CPU-Auslastung, die verfügbare Festplattenkapazität und den freien physischen Speicher ab und ermittelt die prozentuale Auslastung basierend auf den verfügbaren Ressourcen.
 
 Das Skript überprüft die Metriken auf das Überschreiten vordefinierter Schwellenwerte (standardmäßig auf 80% festgelegt). Wenn eine Metrik den Schwellenwert überschreitet, wird eine Warnung generiert und in den Bericht aufgenommen.
 
 Die Identifizierung der Prozesse mit der größten Auswirkung erfolgt durch Analyse der Festplattennutzung und des Speicherverbrauchs. Diese Informationen werden im Bericht bereitgestellt, um Benutzern bei der Ermittlung möglicher Ursachen für hohe Auslastungen zu unterstützen.
-Projektfortschritt und Erfahrungen
+
+
+# Projektfortschritt und Erfahrungen
 
 Während der Entwicklung des Skripts wurden verschiedene technische Herausforderungen bewältigt, darunter das Erlernen der PowerShell-Syntax, das Arbeiten mit WMI-Abfragen und das Einbinden eines externen Editors. Durch die Nutzung von Online-Ressourcen und die Unterstützung von ChatGPT konnte ich diese Herausforderungen erfolgreich meistern und mein Verständnis für PowerShell-Programmierung erweitern.
 
 Das Projekt hat mir wertvolle Erfahrungen im Bereich PowerShell-Programmierung, Systemüberwachung und -optimierung ermöglicht. Insbesondere das Arbeiten mit Systemmetriken und das Programmieren von Automatisierungsskripten haben meine Fähigkeiten erweitert. Das Skript hat mir gezeigt, wie man systematische Engpässe identifiziert, Auslastungen überwacht und Leistungsprobleme frühzeitig erkennt.
 
 Zusätzlich zur technischen Entwicklung habe ich gelernt, wie wichtig es ist, Ressourcenengpässe zu erkennen und mögliche Hardware-Upgrades in Betracht zu ziehen. Das Skript hat mir verdeutlicht, dass mein aktueller Laptop aufgrund seines Alters oft hohe Festplatten- und Speicherlasten aufweist. Diese Erkenntnis hat mein Interesse an Systemoptimierung und effizienter Ressourcennutzung weiter verstärkt.
-Nächste Schritte
 
-Das System-Metriken-Überwachungsskript war ein lohnendes Projekt, das meine Fähigkeiten in der PowerShell-Programmierung gestärkt hat. Es hat mir gezeigt, wie mächtig PowerShell als Automatisierungswerkzeug ist und wie es zur Überwachung und Optimierung der Systemleistung eingesetzt werden kann. In Zukunft plane ich, das Skript weiter zu verbessern und meine Kenntnisse in der Systemüberwachung und -optimierung weiter auszubauen.
-Anleitung
+# Anleitung für das Skript
 
-    Klone das Repository: git clone https://github.com/your-username/system-metrics-monitoring-script.git
-    Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
-    Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
-    Der Bericht wird automatisch in einem separaten Editor geöffnet.
+Klone das Repository: git clone https://github.com/Cikle/system-metrics-monitoring-script.git
+Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
+Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
+Der Bericht wird automatisch in einem separaten Editor geöffnet.
