@@ -30,14 +30,3 @@ Zusätzlich erkannte ich die Bedeutung von Ressourcenengpässen und Hardware-Upg
 
 # Beispiel
 ![image](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/assets/110893288/5372f0eb-99d4-4fcb-9eff-80895007d81c)
-
-
-# Anleitung für das Skript
-
-Klone das Repository: git clone [https://github.com/Cikle/System-metrics-monitoring-script.git](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/blob/main/System-Monitoring-Script.ps1)
-  
-  Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
-  
-  Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
-  
-  Der Bericht wird automatisch in einem separaten Editor geöffnet.
