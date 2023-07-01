@@ -11,6 +11,9 @@ Das System-Metriken-Überwachungsskript ist ein PowerShell-Skript zur Echtzeitü
 * Unterstützung für PowerShell oder integrierte Entwicklungsumgebungen wie Visual Studio
 * Öffnen des Berichts in einem separaten Editor für bequeme Anzeige und Analyse
 
+# Was habe ich gelernt?
+Ich habe gelernt mit PowerShell zu arbeiten, sowie wie man in den Editor per PowerShell reinschreibt und es öffnet
+
 # Technische Details
 
 Das Skript nutzt WMI, um Systemressourcen abzufragen und die prozentuale Auslastung zu berechnen. Es erfasst CPU-Auslastung, Festplattenkapazität und physischen Speicher und berechnet basierend auf den verfügbaren Ressourcen die prozentuale Auslastung.
