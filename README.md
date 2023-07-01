@@ -34,6 +34,9 @@ Zusätzlich zur technischen Entwicklung habe ich gelernt, wie wichtig es ist, Re
 # Anleitung für das Skript
 
 Klone das Repository: git clone [https://github.com/Cikle/System-metrics-monitoring-script.git](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/blob/main/System-Monitoring-Script.ps1)
-Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
-Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
-Der Bericht wird automatisch in einem separaten Editor geöffnet.
+  
+  Navigiere in das Verzeichnis: cd system-metrics-monitoring-script
+  
+  Führe das Skript aus: powershell ./system_metrics_monitoring.ps1
+  
+  Der Bericht wird automatisch in einem separaten Editor geöffnet.
