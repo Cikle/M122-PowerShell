@@ -1,9 +1,9 @@
 # System-Metrics-Überwachungsskript
-Ein Projekt aus dem Modul 122
+**Ein Projekt aus dem Modul 122**
 
-Gruppenmitglieder: Cyril Lutziger
+**Gruppenmitglieder:** Cyril Lutziger
 
-# Einleitung
+## Einleitung
 Das System-Metriken-Überwachungsskript ist ein PowerShell-Skript zur Echtzeitüberwachung wichtiger Systemmetriken auf Windows-Computern. Es überwacht CPU-Auslastung, Festplattenauslastung und Speicherauslastung und erstellt einen detaillierten Bericht.
 
 
@@ -15,7 +15,7 @@ Das System-Metriken-Überwachungsskript ist ein PowerShell-Skript zur Echtzeitü
 * Unterstützung für PowerShell oder integrierte Entwicklungsumgebungen wie Visual Studio
 * Öffnen des Berichts in einem separaten Editor für bequeme Anzeige und Analyse
 
-# Technische Details
+## Technische Details
 
 Das Skript nutzt WMI, um Systemressourcen abzufragen und die prozentuale Auslastung zu berechnen. Es erfasst CPU-Auslastung, Festplattenkapazität und physischen Speicher und berechnet basierend auf den verfügbaren Ressourcen die prozentuale Auslastung.
 
@@ -24,7 +24,7 @@ Das Skript überwacht die Metriken anhand vordefinierter Schwellenwerte (standar
 Um die Prozesse mit der grössten Auswirkung zu identifizieren, analysiert das Skript die Festplattennutzung und den Speicherverbrauch. Diese Informationen werden im Bericht angezeigt, um Benutzern bei der Ursachenermittlung für hohe Auslastungen zu helfen.
 
 
-# Projektfortschritt und Erfahrungen
+## Projektfortschritt und Erfahrungen
 
 Während der Skriptentwicklung überwand ich technische Herausforderungen wie PowerShell-Syntax, WMI-Abfragen und externen Editor. Dank Online-Ressourcen und ChatGPT verbesserte ich meine PowerShell-Programmierkenntnisse.
 
