@@ -31,6 +31,13 @@ Schliesslich wird der Befehl notepad.exe verwendet, um die Editor-Datei mit dem 
 
 Durch diese Schritte wird der generierte Bericht in eine Editor-Datei geschrieben und anschliessend automatisch in Notepad oder einem anderen Standardeditor geöffnet.
 
-## verifikationen
+## Verifikationen
+
+* `Textbeschreibung:` Die Textbeschreibung dient zur Verständlichkeit des Codes.
+
+* `Code:` Dieser Code ist ein Beispiel, wie man eine ForEach-Schleife benutzen könnte.
+
+* `Bild:` Kein Bild vorhanden welches zur Veranschaulichung des Codes dienen würde.
+
 
 ## Reflexion zum Arbeitsprozess
