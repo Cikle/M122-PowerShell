@@ -1,11 +1,11 @@
 # Lernbericht
 
-# Einleitung
+## Einleitung
 
-# Was habe ich gelernt?
+## Was habe ich gelernt?
 
-# Erklärung
+## Erklärung
 
-# verifikationen
+## verifikationen
 
-# Reflexion zum Arbeitsprozess
+## Reflexion zum Arbeitsprozess
