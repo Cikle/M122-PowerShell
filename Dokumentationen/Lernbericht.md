@@ -41,3 +41,9 @@ Durch diese Schritte wird der generierte Bericht in eine Editor-Datei geschriebe
 
 
 ## Reflexion zum Arbeitsprozess
+
+👍Bei meiner Arbeit lief gut, dass ich sehr schnell voran gekommen bin.
+
+👎Bei meiner Arbeit lief nicht gut, dass ich vielmals Fehler hatte, da ich nicht wusste wie ich mit dem Skript vorgehen musste.
+
+VBV: Für mein nächstes Projekt nehme ich mir vor, alles besser vorauszuplanen, sowie das PAP früher zu erstellen.
