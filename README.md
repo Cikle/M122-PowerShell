@@ -31,10 +31,3 @@ Während der Skriptentwicklung überwand ich technische Herausforderungen wie Po
 Das Projekt erweiterte meine Fähigkeiten in PowerShell, Systemüberwachung und -optimierung. Es half mir, Engpässe zu identifizieren, Auslastungen zu überwachen und Leistungsprobleme frühzeitig zu erkennen.
 
 Zusätzlich erkannte ich die Bedeutung von Ressourcenengpässen und Hardware-Upgrades. Mein aktueller Laptop zeigt aufgrund seines Alters oft hohe Festplatten- und Speicherlasten. Diese Erkenntnis verstärkte mein Interesse an Systemoptimierung und effizienter Ressourcennutzung.
-
-# PAP
-![image](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/assets/110893288/33aa80bf-0cbb-4387-adca-980965d5394f)
-
-
-# Beispiel
-![image](https://github.com/Cikle/System-Monitoring-Portfolioeintrag/assets/110893288/5372f0eb-99d4-4fcb-9eff-80895007d81c)
